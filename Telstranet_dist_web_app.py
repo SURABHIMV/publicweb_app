@@ -14,7 +14,7 @@ from sklearn.calibration import CalibratedClassifierCV
 from sklearn.metrics import log_loss
 
 #loadig the saved model
-loaded_model=pickle.load(open(trained_model_lgg.sav','rb'))
+loaded_model=pickle.load(open('trained_model_lgg.sav','rb'))
 loaded_model1=pickle.load(open('pcaa.sav','rb'))
 nrows=100
 data=pd.read_csv("xdataa.csv",nrows=nrows)
