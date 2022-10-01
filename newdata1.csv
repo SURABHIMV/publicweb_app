@@ -1,0 +1,9 @@
+event_type,log_feature,volume,resource_type,severity_type,fault_severity
+event_type 23,feature 47,1,resource_type 8,severity_type 1,1
+event_type 11,feature 80,2,resource_type 8,severity_type 1,0
+event_type 14,feature 170,1,resource_type 7,severity_type 1,2
+event_type 22,feature 134,1,resource_type 8,severity_type 1,0
+event_type 20,feature 134,1,resource_type 2,severity_type 1,0
+event_type 26,feature 276,1,resource_type 9,severity_type 2,0
+event_type 13,feature 54,2,resource_type 6,severity_type 1,0
+event_type 11,feature 203,37,resource_type 8,severity_type 1,2
