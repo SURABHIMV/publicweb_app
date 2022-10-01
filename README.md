@@ -1,6 +1,6 @@
 # publicweb_app
-xdata1(contains independent data of dataframe)
-ydata1(contains the dependent data of dataframe)
+xdata11(contains independent data of dataframe)
+yydata2(contains the dependent data of dataframe)
 trained_model_lg1.sav(contain best model )
 pca11.sav(contain trained pca saved)
 cali1.sav(contain trained calibratedclassifier saved)
